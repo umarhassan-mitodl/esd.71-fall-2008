@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "legacy_uid": "31b2219d-dc19-471a-0d4a-6583729d166b",
+  "instructors": {
+    "content": [
+      "51a9d14e-4604-f4af-6342-a08e5661acd3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f9f2ec54-03e7-45f4-a459-543023201fa5",
+    "website": "esd-71-engineering-systems-analysis-for-design-fall-2008"
+  },
+  "course_title": "Engineering Systems Analysis for Design",
+  "hide_download": true,
+  "course_description": "Engineering systems design must have the flexibility to take advantage of new opportunities while avoiding disasters. This subject develops \"real options\" analysis to create design flexibility and measure its value so that it can be incorporated into system optimization. It builds on essential concepts of system models, decision analysis, and financial concepts. Emphasis is placed on calculating value of real options with special attention given to efficient analysis and practical applications. The material is organized and presented to deal with the contextual reality of technological systems, that substantially distinguishes the analysis of real options in engineering systems from that of financial options.\n\n##### Note\n\nThis MIT OpenCourseWare site is based on the materials from [Professor de Neufville's ESD.71 Web site](https://ardent.mit.edu/). Additional materials, updated as needed by Professor de Neufville, can be found there.\n",
+  "department_numbers": [
+    "ESD",
+    "1",
+    "3",
+    "16"
+  ],
+  "extra_course_numbers": "1.146,3.56,16.861",
+  "primary_course_number": "ESD.71",
+  "course_image_thumbnail": {
+    "content": "8e1f0f48-70b6-ede4-5b23-4fddf8547ee1",
+    "website": "esd-71-engineering-systems-analysis-for-design-fall-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "b7f9f5b5-9286-4b60-8338-d81452674c94",
+  "site_short_id": "esd.71-fall-2008",
+  "site_url_path": "courses/esd-71-engineering-systems-analysis-for-design-fall-2008",
+  "title": "Course Metadata"
+}
