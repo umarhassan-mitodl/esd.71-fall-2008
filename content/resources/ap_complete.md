@@ -4,8 +4,6 @@ description: The final part of the Application Portfolio Assignment of the cours
 file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/5b214283f193a249f2c9e50611344e28_ap_complete.pdf
 file_size: 72630
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

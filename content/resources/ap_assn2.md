@@ -7,8 +7,6 @@ description: Part 2 of the Application Portfolio Assignment to build a suite of 
 file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/b9cd1b6d2547cd6fe5b6aae32257f0c5_ap_assn2.pdf
 file_size: 76242
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

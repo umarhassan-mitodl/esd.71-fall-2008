@@ -5,8 +5,6 @@ description: Extra credit assignment to create a set of slides that could be use
 file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/578919cd8059b26921be0a0ca7140fa5_ap_slides.pdf
 file_size: 64664
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

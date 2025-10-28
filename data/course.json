@@ -28,8 +28,7 @@
     "website": "esd-71-engineering-systems-analysis-for-design-fall-2008"
   },
   "course_title": "Engineering Systems Analysis for Design",
-  "hide_download": true,
-  "course_description": "Engineering systems design must have the flexibility to take advantage of new opportunities while avoiding disasters. This subject develops \"real options\" analysis to create design flexibility and measure its value so that it can be incorporated into system optimization. It builds on essential concepts of system models, decision analysis, and financial concepts. Emphasis is placed on calculating value of real options with special attention given to efficient analysis and practical applications. The material is organized and presented to deal with the contextual reality of technological systems, that substantially distinguishes the analysis of real options in engineering systems from that of financial options.\n\n##### Note\n\nThis MIT OpenCourseWare site is based on the materials from [Professor de Neufville's ESD.71 Web site](https://ardent.mit.edu/). Additional materials, updated as needed by Professor de Neufville, can be found there.\n",
+  "course_description": "Engineering systems design must have the flexibility to take advantage of new opportunities while avoiding disasters. This subject develops \"real options\" analysis to create design flexibility and measure its value so that it can be incorporated into system optimization. It builds on essential concepts of system models, decision analysis, and financial concepts. Emphasis is placed on calculating value of real options with special attention given to efficient analysis and practical applications. The material is organized and presented to deal with the contextual reality of technological systems, that substantially distinguishes the analysis of real options in engineering systems from that of financial options.\n\n##### Note\n\nThis MIT OpenCourseWare site is based on the materials from {{% resource_link \"8518f8ef-9e5b-4e9b-87b7-63ce61aad4a1\" \"Professor de Neufville's ESD.71 Web site\" %}}. Additional materials, updated as needed by Professor de Neufville, can be found there.\n",
   "department_numbers": [
     "ESD",
     "1",
@@ -42,7 +41,6 @@
     "content": "8e1f0f48-70b6-ede4-5b23-4fddf8547ee1",
     "website": "esd-71-engineering-systems-analysis-for-design-fall-2008"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],

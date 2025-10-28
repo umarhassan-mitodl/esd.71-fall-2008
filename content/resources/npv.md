@@ -4,8 +4,6 @@ description: Assignment on net present values.
 file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/109fbb602e13e665a68e58477069f365_npv.pdf
 file_size: 75366
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

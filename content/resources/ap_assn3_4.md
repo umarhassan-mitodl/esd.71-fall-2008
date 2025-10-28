@@ -8,8 +8,6 @@ description: Parts 3 and 4 of the Application Portfolio Assignment to build a su
 file: /courses/esd-71-engineering-systems-analysis-for-design-fall-2008/5c437f86031e6f7979edce37eaf81dfe_ap_assn3_4.pdf
 file_size: 77252
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
