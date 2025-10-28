@@ -15,7 +15,7 @@ This material is supplemented by chapters from:
 
 de Neufville, Richard. *Applied Systems Analysis*. New York, NY: McGraw-Hill, 1990. ISBN: 9780070163720.
 
-Textbook chapters from *Applied Systems Analysis* can also be found [here](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html).
+Textbook chapters from *Applied Systems Analysis* can also be found {{% resource_link "c8b61ad7-2bbf-4575-b91d-5d931f43e68b" "here" %}}.
 
 ## Readings by Session
 
